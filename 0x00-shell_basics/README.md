@@ -1,2 +1,3 @@
-print the absolute path name
-list of contents in current directory
+prints the absolute path name of the current working directory
+contents list of your current directory
+changes the working directory to the user’s home directory
