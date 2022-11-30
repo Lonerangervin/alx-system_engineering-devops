@@ -1,1 +1,1 @@
-Sanity
+print the absolute path name
